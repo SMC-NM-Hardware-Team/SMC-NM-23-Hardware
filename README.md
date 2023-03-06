@@ -15,8 +15,7 @@ Image: Raspberry Pi 3 + Grove Base Hat (sensors) + BrickPi 3 (motors)
 
 ## Product Support
 ### Grove Base Hat and sensors
-- [Product Page - Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
-- [Product Page - Ultrasonic Sensor](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
+- [Wiki - Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
 - [Wiki - Ultrasonic Sensor](https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/#play-with-raspberry-pi-with-grove-base-hat-for-raspberry-pi)
 
 
@@ -24,4 +23,4 @@ Image: Raspberry Pi 3 + Grove Base Hat (sensors) + BrickPi 3 (motors)
 - [Product Page - BrickPi3](https://www.dexterindustries.com/site/?product=brickpi-advanced-for-raspberry-pi)
 - [BrickPi3 Getting Started – Program in Python
 ](https://www.dexterindustries.com/BrickPi/brickpi3-getting-started-step-4-program-brickpi-robot/brickpi3-getting-started-program-python/)
-- [BrickPi3 Python scripts](https://github.com/DexterInd/BrickPi3/tree/master/Software/Python)
+- [GitHub - BrickPi3 Python scripts](https://github.com/DexterInd/BrickPi3/tree/master/Software/Python)
