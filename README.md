@@ -1,1 +1,1 @@
-# SMC-NM-23-Hardware
+# SM NASA MINDS '23 Hardware
