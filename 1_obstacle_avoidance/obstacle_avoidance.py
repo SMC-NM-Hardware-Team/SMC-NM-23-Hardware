@@ -163,13 +163,13 @@ def turn_90(turn_direction):
         
 timer = 60
 while timer >= 0:
-    if (there_is_space_to_move(get_dist(), 10)):
+    if (there_is_space_to_move(get_dist(), 5)):
         BP.set_motor_dps(BP.PORT_A, -250)
         BP.set_motor_dps(BP.PORT_D, -250)
     else:
         turn_90(turn_direction)
             
-        subtimer = 5
+        subtimer = 2
         while subtimer >= 0:
             if (there_is_space_to_move(get_dist(), 10)):
                 BP.set_motor_dps(BP.PORT_A, -250)
