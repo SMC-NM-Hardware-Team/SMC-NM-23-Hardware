@@ -1,0 +1,5 @@
+The Grove.py and BrickPi3 repositories are designed to be installed in Raspbian (or Raspbian for Robots) only. 
+
+Even though you can run the terminal commands in macOS (and maybe Windows), the install will fail.
+
+The file dependencies branch out so far, you will encounter dependency hell if you try to link them yourself. So don't try it, just install on Raspbian for Robots. :) 

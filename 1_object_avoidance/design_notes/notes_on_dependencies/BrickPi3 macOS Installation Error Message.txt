@@ -1,0 +1,26 @@
+Last login: Wed Mar  8 21:39:13 on ttys001
+mack:Object Avoidance kyle$ curl -kL dexterindustries.com/update_brickpi3 | bash
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   252  100   252    0     0    923      0 --:--:-- --:--:-- --:--:--   940
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+100 11815  100 11815    0     0   6480      0  0:00:01  0:00:01 --:--:--  6480
+id: pi: no such user
+main: line 24: [: 501: unary operator expected
+Welcome to BrickPi3 Installer.
+Updating BrickPi3 for master branch with the following options:
+  --no-dependencies=false
+  --no-update-aptget=false
+  --bypass-rfrtools=false
+  --bypass-python-rfrtools=false
+  --bypass-gui-installation=false
+  --user-local=false
+  --env-local=false
+  --system-wide=true
+Using "master" branch
+Options used for RFR_Tools script: "--system-wide master --use-python3-exe-too --update-aptget --install-deb-deps --install-python-package --install-gui"
+main: line 165: /home/pi/.tmp_rfrtools.sh: No such file or directory
+Installing RFR_Tools. This might take a moment..
+bash: /home/pi/.tmp_rfrtools.sh: No such file or directory
+rm: /home/pi/.tmp_rfrtools.sh: No such file or directory
+RFR_Tools failed installing with exit code 127. Exiting.

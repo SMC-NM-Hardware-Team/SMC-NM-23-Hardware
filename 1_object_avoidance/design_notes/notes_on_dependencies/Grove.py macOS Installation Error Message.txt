@@ -1,0 +1,16 @@
+Last login: Wed Mar  8 21:51:53 on ttys002
+mack:Object Avoidance kyle$ curl -sL https://github.com/Seeed-Studio/grove.py/raw/master/install.sh | sudo bash -s -
+Password:
+error: /Library/Developer/CommandLineTools/usr/bin/strings: can't open file: /proc/device-tree/model (No such file or directory)
+tee: /etc/apt/sources.list.d/seeed.list: No such file or directory
+deb https://seeed-studio.github.io/pi_repo/ unknown main
+bash: line 181: apt-key: command not found
+bash: line 182: apt-key: command not found
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3822  100  3822    0     0  12588      0 --:--:-- --:--:-- --:--:-- 12697
+curl: (23) Failed writing body
+The operation couldn’t be completed. Unable to locate a Java Runtime that supports apt.
+Please visit http://www.java.com for information on installing Java.
+
+unsupport platform unknown, abort ...
