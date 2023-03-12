@@ -47,8 +47,9 @@ Optional reading
     - [Wiki - Grove LSM6DS3 6-Axis gyroscope and accelerometer](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/)
     - [GitHub Gist - Grove LSM6DS3 6-Axis gyroscope and accelerometer](https://gist.github.com/omiq/2ecb56267a0bb68fbf5be5af53687d0e)
 
-Good to have you on board!
 
+
+That's all. Happy reading and see you on Thursday!
 ![72730369-smiling-construction-worker-with-hardhat-holding-thumbs-up](https://user-images.githubusercontent.com/19840760/224535919-3faa1b70-ba18-4415-a4f6-13a4d34fa0dd.jpg)
 ![DZY7dstW4AETf46](https://user-images.githubusercontent.com/19840760/224536044-b46766e9-d84a-4b4e-9756-47cfc91a4c3a.jpg)
 ![hill-are-alive-with-teamwork-meme-720x720](https://user-images.githubusercontent.com/19840760/224536072-77d1a771-32a0-4cde-92af-e4ebbe536b11.jpg)
