@@ -4,8 +4,8 @@ Things you can do to prepare for Thursday's meeting:
 2. Install a code editor ([VS Code](https://code.visualstudio.com/) recommended).
     - Code editors have powerful productivity features such as syntax highlighting, error detection, code autocompletion, built-in command line interface (CLI), and integration with other software/services such as git.
 3. Install git.
-i. Choose either the git GUI or the command line interface (git CLI).
-ii. Follow the install instructions for your choice.
+- i. Choose either the git GUI or the command line interface (git CLI).
+- ii. Follow the install instructions for your choice.
     - git GUIs (Graphical user interface)
         - Recommended: [GitKraken](https://www.gitkraken.com/) 
         - [GitHub Desktop](https://desktop.github.com/)
